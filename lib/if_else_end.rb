@@ -1,5 +1,5 @@
 # Write your solution here
-chance_of_rain = 0.00001
+chance_of_rain = 0.3
 
 if chance_of_rain <= 0.25
   puts "pack sun shelter"
